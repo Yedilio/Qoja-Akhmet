@@ -47,6 +47,12 @@ html, body {
     }
 }
 
+@media screen and (max-width: 400px) {
+    .japan-box {
+        font-size: 1.8rem;
+    }
+}
+
 @media screen and (min-width: 1800px) {
     .japan-box {
         width: 80%;
